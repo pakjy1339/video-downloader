@@ -71,5 +71,5 @@ open "http://127.0.0.1:8765"
 
 printf "\n\033[1;32m설치 완료!\033[0m\n"
 echo "- 다운로더 주소: http://127.0.0.1:8765  (북마크해 두세요)"
-echo "- 응용 프로그램 폴더(Launchpad)의 'Video Downloader'로도 열 수 있어요. Dock에 끌어다 두면 편해요."
+echo "- 다시 열 때: Spotlight(⌘ Space)에서 'Video Downloader' 검색. (위치: 홈 폴더 > 응용 프로그램)"
 echo "- 맥을 켜면 자동으로 실행되고, 켤 때마다 최신 버전으로 업데이트됩니다."

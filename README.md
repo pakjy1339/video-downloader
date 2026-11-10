@@ -15,8 +15,16 @@ YouTube · Vimeo · Instagram · TikTok · X · Pinterest · TVCF · Behance</p>
 
 ### 🍎 맥
 
-**1. 터미널 열기**
-`⌘ Command + Space` → `터미널` 입력 → `Enter`
+**1. 터미널 열기** (둘 중 편한 방법으로)
+
+- **방법 A — Spotlight로 열기**
+  1. 키보드에서 `⌘ Command` + `Space`를 같이 누릅니다. (화면 가운데 검색창이 뜸)
+  2. `터미널` (또는 `terminal`) 이라고 입력합니다.
+  3. **터미널** 앱이 선택된 상태에서 `Enter`
+- **방법 B — Finder로 열기**
+  Finder → **응용 프로그램** → **유틸리티** 폴더 → **터미널** 더블클릭
+
+흰색(또는 검은색) 창이 열리고 `내이름@맥이름 ~ %` 같은 글자가 보이면 성공입니다.
 
 **2. 아래 한 줄을 복사 → 터미널에 붙여넣기(`⌘ V`) → `Enter`**
 
@@ -37,8 +45,18 @@ curl -fsSL https://raw.githubusercontent.com/pakjy1339/video-downloader/main/ins
 
 ### 🪟 윈도우
 
-**1. PowerShell 열기**
-**시작 버튼을 오른쪽 클릭** → **터미널** (윈도우 10은 **Windows PowerShell**)
+**1. PowerShell 열기** (둘 중 편한 방법으로)
+
+- **방법 A — 검색으로 열기**
+  1. 키보드의 `⊞ 윈도우 키`를 한 번 누릅니다. (또는 작업 표시줄의 🔍 검색 칸 클릭)
+  2. `powershell` 이라고 입력합니다.
+  3. 검색 결과 맨 위의 **Windows PowerShell**이 선택된 상태에서 `Enter`
+- **방법 B — 시작 버튼으로 열기**
+  1. 화면 아래 **시작 버튼(⊞)을 마우스 오른쪽 클릭**
+  2. 메뉴에서 **터미널** 클릭 (윈도우 10은 **Windows PowerShell**)
+
+검은색(또는 파란색) 창이 열리고 `PS C:\Users\내이름>` 같은 글자가 보이면 성공입니다.
+**관리자 권한(관리자로 실행)은 필요 없어요.** 일반으로 열면 됩니다.
 
 **2. 아래 한 줄을 복사 → 창에 붙여넣기(`Ctrl V` 또는 마우스 오른쪽 클릭) → `Enter`**
 
